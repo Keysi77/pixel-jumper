@@ -1,0 +1,43 @@
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 770 (ID=0x1184)
+    Vendor:   NVIDIA
+    VRAM:     1989 MB
+    Driver:   23.21.13.8831
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Výška\4. ročník\3D apky\BellaKanderkav2\demo_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Výška\4. ročník\3D apky\BellaKanderkav2\demo_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Výška\4. ročník\3D apky\BellaKanderkav2\demo_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Výška\4. ročník\3D apky\BellaKanderkav2\demo_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Výška\4. ročník\3D apky\BellaKanderkav2\demo_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Výška\4. ročník\3D apky\BellaKanderkav2\demo_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Výška\4. ročník\3D apky\BellaKanderkav2\demo_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Výška\4. ročník\3D apky\BellaKanderkav2\demo_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Výška\4. ročník\3D apky\BellaKanderkav2\demo_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\Výška\4. ročník\3D apky\BellaKanderkav2\demo_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: D:\Výška\4. ročník\3D apky\BellaKanderkav2\demo_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\Výška\4. ročník\3D apky\BellaKanderkav2\demo_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.142 seconds
+Platform assembly: D:\Výška\4. ročník\3D apky\BellaKanderkav2\demo_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Výška\4. ročník\3D apky\BellaKanderkav2\demo_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 4.358934 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.960167 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1759.
+Total: 0.372435 ms (FindLiveObjects: 0.064364 ms CreateObjectMapping: 0.026916 ms MarkObjects: 0.264479 ms  DeleteObjects: 0.016091 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.537995 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 1759.
+Total: 1.031878 ms (FindLiveObjects: 0.145112 ms CreateObjectMapping: 0.071093 ms MarkObjects: 0.794315 ms  DeleteObjects: 0.021064 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 568 -> priority: 1 
